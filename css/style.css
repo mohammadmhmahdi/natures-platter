@@ -8,3 +8,10 @@ nav{
     border-bottom: 1px solid rgb(28, 184, 1);
     width: 100%;
 }
+.once{
+    animation-iteration-count: 1;
+  }
+.other{
+    display: none;
+    visibility: hidden;
+}
